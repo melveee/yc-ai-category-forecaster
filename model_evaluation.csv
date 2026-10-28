@@ -1,0 +1,4 @@
+Forecasting Model,MAE (percentage points)
+Naive,1.03
+Linear Trend,1.14
+Three-Year Moving Average,1.23
